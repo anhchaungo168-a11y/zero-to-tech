@@ -12,7 +12,7 @@ export const home = {
     kicker: "作品",
     title: "文字实验室",
     copy: "拼音和情绪，挖掘中文里的细节",
-    linkLabel: "开作品",
+    linkLabel: "打开作品",
   },
   identity: {
     motto: "已识乾坤大，尤怜草木青",
